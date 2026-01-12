@@ -11,5 +11,5 @@ To Visualize decades of IMDB data in Power BI to reveal audience trends and cont
 5. Age certification vs ratings: Average IMDB score by certification (TV‑14, TV‑MA, etc.) to infer audience maturity preferences.
 6. Year‑wise IMDB scores: Average IMDB score per year across decades to reveal rating cycles and standout eras.
 
-- Dashboard Interaction -> <a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_PBI/blob/main/Meta_Leads_PBI.png">View Dashboard<a/>
+- Dashboard Interaction -> <a href="https://github.com/FaisalManiyar/Decades-of-Storytelling-IMDB-Data-Visualized-in-Power-BI/commit/c1b34c7f200e58142a77236617641a33f2759fd4">View Dashboard<a/>
 
